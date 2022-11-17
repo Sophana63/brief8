@@ -16,5 +16,5 @@ pip install -U scikit-learn
  - la régression linéaire sera utilisé avec le dataset California Housing pour estimer le prix d'un bien à partir des paramètres d'entrée donnés dans le dataset.
  - la méthode k-means sera utilisée avec le dataset Iris pour trouver des groupes de fleurs, sans information préalable sur le type de fleur disponible dans le dataset (de manière aveugle).
  - le modèle SVM sera utilisé avec le dataset hand-written digits pour reconnaître les chiffres de 1 à 10 à partir des images fournies dans le dataset. Pour cette partie, je me suis fortement inspiré du tutotiel de Valentin. J'ai juste changé le type de modélisation.
- - le dernier est juste un tutoriel sur divers fonctions de sklearn pour mieux les comprendre. J'ai utilisé le dataset des vins pour les exemples
+ - le dernier est juste un tutoriel sur divers fonctions train_test_split, cross_validation et validation_curve de sklearn pour mieux les comprendre. J'ai utilisé le dataset des fleurs d'iris pour les exemples.
 
