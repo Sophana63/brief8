@@ -18,3 +18,6 @@ pip install -U scikit-learn
  - le modèle SVM sera utilisé avec le dataset hand-written digits pour reconnaître les chiffres de 1 à 10 à partir des images fournies dans le dataset. Pour cette partie, je me suis fortement inspiré du tutotiel de Valentin. J'ai juste changé le type de modélisation.
  - le dernier est juste un tutoriel sur divers fonctions train_test_split, cross_validation et validation_curve de sklearn pour mieux les comprendre. J'ai utilisé le dataset des fleurs d'iris pour les exemples.
 
+## Planning
+
+[Afficher - PDF version](pdf/Planning.pdf)
